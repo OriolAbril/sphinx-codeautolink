@@ -8,6 +8,10 @@ These release notes are based on
 sphinx-codeautolink adheres to
 `Semantic Versioning <https://semver.org>`_.
 
+Unreleased
+----------
+- Support Python 3.10 (:issue:`33`)
+
 0.3.0 (2021-10-05)
 ------------------
 - Treat optional types as their underlying type (:issue:`21`)
